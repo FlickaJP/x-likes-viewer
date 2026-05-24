@@ -1,0 +1,6 @@
+{
+  "api_key": "ここにあなたのAPI Keyを入れる",
+  "api_secret": "ここにあなたのAPI Key Secretを入れる",
+  "access_token": "ここにあなたのAccess Tokenを入れる",
+  "access_token_secret": "ここにあなたのAccess Token Secretを入れる"
+}
